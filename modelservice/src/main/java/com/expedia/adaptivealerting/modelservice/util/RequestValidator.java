@@ -17,9 +17,9 @@ package com.expedia.adaptivealerting.modelservice.util;
 
 import com.expedia.adaptivealerting.anomdetect.source.DetectorDocument;
 import com.expedia.adaptivealerting.anomdetect.source.DetectorRegistry;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Expression;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operand;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operator;
+import com.expedia.adaptivealerting.modelservice.dto.common.Expression;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operand;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operator;
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.User;
 import com.expedia.adaptivealerting.modelservice.dto.percolator.PercolatorDetectorMapping;
 import com.expedia.adaptivealerting.modelservice.entity.Detector;

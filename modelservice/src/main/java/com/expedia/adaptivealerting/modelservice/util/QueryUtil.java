@@ -15,10 +15,10 @@
  */
 package com.expedia.adaptivealerting.modelservice.util;
 
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Expression;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Field;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operand;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operator;
+import com.expedia.adaptivealerting.modelservice.dto.common.Expression;
+import com.expedia.adaptivealerting.modelservice.dto.common.Field;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operand;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operator;
 import com.expedia.adaptivealerting.modelservice.dto.percolator.BoolCondition;
 import com.expedia.adaptivealerting.modelservice.dto.percolator.MustCondition;
 import com.expedia.adaptivealerting.modelservice.dto.percolator.Query;

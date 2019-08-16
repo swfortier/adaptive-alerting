@@ -16,7 +16,7 @@
 package com.expedia.adaptivealerting.modelservice.entity;
 
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Detector;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Expression;
+import com.expedia.adaptivealerting.modelservice.dto.common.Expression;
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.User;
 import lombok.Data;
 import lombok.experimental.Accessors;

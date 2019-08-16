@@ -2,10 +2,10 @@ package com.expedia.adaptivealerting.modelservice.dto;
 
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.CreateDetectorMappingRequest;
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Detector;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Expression;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Field;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operand;
-import com.expedia.adaptivealerting.modelservice.dto.detectormapping.Operator;
+import com.expedia.adaptivealerting.modelservice.dto.common.Expression;
+import com.expedia.adaptivealerting.modelservice.dto.common.Field;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operand;
+import com.expedia.adaptivealerting.modelservice.dto.common.Operator;
 import com.expedia.adaptivealerting.modelservice.dto.detectormapping.User;
 import org.junit.Test;
 
